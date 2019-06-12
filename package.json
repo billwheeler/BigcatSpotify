@@ -1,5 +1,18 @@
 {
     "name": "bigcat-spotify",
-    "version": "1.0",
-    "main": "main.js"
+    "version": "1.0.0",
+    "description": "Am big cat. Make spotify. Many notification.",
+    "main": "main.js",
+    "author": "am big cat",
+    "license": "MIT",
+    "dependencies": {
+        "@babel/core": "^7.1.6",
+        "babel-preset-env": "^1.2.0",
+        "babelify": "^10.0.0",
+        "browserify": "^16.2.3",
+        "gulp": "^3.9.1",
+        "gulp-babel": "^8.0.0",
+        "gulp-util": "^3.0.8",
+        "vinyl-source-stream": "^2.0.0"
+    }
 }
