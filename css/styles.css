@@ -1,0 +1,16 @@
+﻿* { outline: 0px; }
+
+html, body, div, img, form, textarea, button { margin: 0; padding: 0; border: 0; }
+table, tr, td { text-align: left; vertical-align: top; margin: 0; padding: 0; border: 0; }
+
+p, ul, ol, li { padding: 0; margin: 0; }
+p { margin-bottom: 20px; }
+ul, ol { padding: 0; margin: 0; list-style-position: outside; }
+li { padding: 0; margin: 0 0 0 20px; }
+
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
+.underline { text-decoration: underline; }
+.strike { text-decoration: line-through; }
+
+.clear { clear: both; }
